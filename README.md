@@ -18,7 +18,8 @@ Araba ekleme form'u ektedir ;
 
 Formda seçilen arabanın(verinin) değiştirilebilmesi ektedir ; 
 
-![image](https://user-images.githubusercontent.com/105485193/235412071-fc4a7f96-b334-4f5c-b7b2-004c9da7e175.png)
+![image](https://user-images.githubusercontent.com/105485193/235660071-27de2cca-584a-482e-b80e-e53588234e50.png)
+
 
 Formda dosya menümüz ve hangi formatta kaydedeceğimiz menü ektedir ; 
 
