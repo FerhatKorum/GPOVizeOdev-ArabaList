@@ -16,7 +16,7 @@ Araba ekleme form'u ektedir ;
 
 ![image](https://user-images.githubusercontent.com/105485193/235411968-31be9c0d-197a-416a-9c3d-9a8cabccf2cb.png)
 
-Formda seçilen arabanın(verinin) değiştirilebilmesi ektedir ; 
+Formda seçilen arabanın(verinin) değiştirilebilmesi ayrıca Bilgiler ve Özellikler Kategorize Edilmiş ve güncellenmiştir. 
 
 ![image](https://user-images.githubusercontent.com/105485193/235660071-27de2cca-584a-482e-b80e-e53588234e50.png)
 
